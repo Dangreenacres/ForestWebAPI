@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestWebAPI", "ForestWebAPI\ForestWebAPI.csproj", "{D05BADC7-1EFD-4A9E-A448-39EC822B223C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest.Services", "Forest.Services\Forest.Services.csproj", "{9FD7A833-B2A0-4308-B51A-CBDAD9B5FEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest.Data", "Forest.Data\Forest.Data.csproj", "{B774E5D1-12EE-4A7A-A2ED-EED92D94529C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D05BADC7-1EFD-4A9E-A448-39EC822B223C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D05BADC7-1EFD-4A9E-A448-39EC822B223C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D05BADC7-1EFD-4A9E-A448-39EC822B223C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD7A833-B2A0-4308-B51A-CBDAD9B5FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD7A833-B2A0-4308-B51A-CBDAD9B5FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD7A833-B2A0-4308-B51A-CBDAD9B5FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD7A833-B2A0-4308-B51A-CBDAD9B5FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B774E5D1-12EE-4A7A-A2ED-EED92D94529C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B774E5D1-12EE-4A7A-A2ED-EED92D94529C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B774E5D1-12EE-4A7A-A2ED-EED92D94529C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B774E5D1-12EE-4A7A-A2ED-EED92D94529C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
